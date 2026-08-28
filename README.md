@@ -5,3 +5,5 @@ E commerce
 visualization 
 
 predicting 
+
+EDA
