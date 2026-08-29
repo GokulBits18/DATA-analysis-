@@ -7,3 +7,5 @@ visualization
 predicting 
 
 EDA
+
+total 
