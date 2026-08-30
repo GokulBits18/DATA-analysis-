@@ -9,3 +9,5 @@ predicting
 EDA
 
 total 
+
+details 
