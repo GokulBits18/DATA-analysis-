@@ -8,6 +8,4 @@ predicting
 
 EDA
 
-total 
-
-details 
+.
